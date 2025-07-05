@@ -1,4 +1,4 @@
-
+	
 | **Google Dorking Query**                                | Expected results                                                                                                                                   |
 | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | inurl:"/wp-json/wp/v2/users"                            | Finds all publicly available WordPress API user directories.                                                                                       |
