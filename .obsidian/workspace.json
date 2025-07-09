@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API Penetration Testing/Endpoint Analysis/Reverse Engineering an API.md",
+                "file": "API Penetration Testing/Scanning APIs/Finding Security Misconfiguration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse Engineering an API"
+              "title": "Finding Security Misconfiguration"
             }
           }
         ]
@@ -170,12 +170,14 @@
   },
   "active": "9d5214d36ca2f591",
   "lastOpenFiles": [
-    "README.md",
     "API Penetration Testing/Endpoint Analysis/Reverse Engineering an API.md",
+    "API Penetration Testing/Scanning APIs/Finding Security Misconfiguration.md",
+    "API Penetration Testing/Scanning APIs",
+    "API Penetration Testing/Lab Setup.md",
+    "README.md",
     "API Penetration Testing/API Recoinassance/Active Reconnaissance.md",
     "API Penetration Testing/API Recoinassance/Passive Recoinassance.md",
     "API Penetration Testing/API Recoinassance/Introduction to API Reconnaissance.md",
-    "API Penetration Testing/Lab Setup.md",
     "API Penetration Testing/Endpoint Analysis/Untitled",
     "API Penetration Testing/Endpoint Analysis",
     "API Penetration Testing/References.md",
