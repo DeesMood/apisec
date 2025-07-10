@@ -11,6 +11,10 @@ For the tools:
 If the normal installation method doesn't work use:
 ```pipx``` and for some reason it can only be installed to the user not root.
 
+## CRAPI
+Start docker container
+`sudo docker-compose -f docker-compose.yml --compatibility up -d`
+
 ## More Study Resources
 
 Portswigger
