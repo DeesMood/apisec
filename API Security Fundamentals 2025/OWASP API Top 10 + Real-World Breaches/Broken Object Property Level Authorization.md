@@ -1,0 +1,1 @@
+![](attachments/Pasted%20image%2020250712191437.png)![](attachments/Pasted%20image%2020250712191726.png)
